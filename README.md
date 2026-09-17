@@ -8,3 +8,4 @@ Want different themes? Go into settings -> theme/color accent
 All versions are available
 ### 3. Easy downloading
 Download any version you want in one click
+   
